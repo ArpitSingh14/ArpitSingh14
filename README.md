@@ -52,11 +52,19 @@
 
 ## 💫 About Me
 
-</div>
+<td width="35%" align="center" valign="middle">
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img src="https://skillicons.dev/icons?i=github" width="120" alt="GitHub">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%2FML-Learning-EF93C4?style=for-the-badge&logo=python&logoColor=white" alt="AI ML">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Goal-Software%20Engineer-FF69B4?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineer">
+
+</td>
 
 ### 👨‍💻 Who Am I?
 
