@@ -195,7 +195,11 @@ I enjoy learning by building projects and experimenting with different technolog
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitSingh14&bg_color=0B1F33&color=D6E8F5&line=7DB7E8&point=FFFFFF&area=true&area_color=123A63&hide_border=true&custom_title=Arpit%20Singh%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph">
+<div align="center">
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitSingh14&bg_color=0B1F33&color=FFFFFF&line=4DA3FF&point=FFFFFF&area=true&hide_border=true&custom_title=Arpit%20Singh%27s%20Contribution%20Activity" width="95%" alt="Arpit Singh GitHub Activity Graph">
 
 </div>
 
