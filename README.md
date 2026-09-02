@@ -1,45 +1,53 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       PROFILE BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    NAVY BLUE HEADER                       -->
+<!-- ========================================================= -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./art/header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./art/header-light.png">
-  <img src="./art/header-light.png" width="100%" alt="Arpit Singh GitHub Banner">
+  <img src="./art/header-light.png" width="100%" alt="Arpit Singh GitHub Profile Banner">
 </picture>
 
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         INTRO                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ======================= INTRO =========================== -->
 
 # 👋 Hey there, I'm **Arpit Singh**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=EF93C4&center=true&vCenter=true&width=800&height=60&lines=B.Tech+Student+%F0%9F%8E%93;AI%2FML+Learner+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Backend+Development+Enthusiast+%E2%9A%99%EF%B8%8F;Future+Software+Engineer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=123A63&center=true&vCenter=true&width=850&height=60&lines=B.Tech+Student+%F0%9F%8E%93;AI%2FML+Learner+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Backend+Development+Enthusiast+%E2%9A%99%EF%B8%8F;Future+Software+Engineer+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing Animation">
 
 <br>
 
+<img src="https://img.shields.io/badge/B.Tech-Student-0B1F33?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech Student">
+<img src="https://img.shields.io/badge/AI%2FML-Learner-123A63?style=for-the-badge&logo=python&logoColor=white" alt="AI ML">
+<img src="https://img.shields.io/badge/Future-Software%20Engineer-1F5A8A?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineer">
+
+<br><br>
+
 <a href="https://github.com/ArpitSingh14">
-<img src="https://img.shields.io/github/followers/ArpitSingh14?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161616" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/ArpitSingh14?label=Followers&style=for-the-badge&color=123A63&labelColor=0B1F33" alt="GitHub Followers">
 </a>
 
 <a href="https://github.com/ArpitSingh14?tab=repositories">
-<img src="https://img.shields.io/github/stars/ArpitSingh14?affiliations=OWNER&style=for-the-badge&color=F8BBD0&labelColor=161616" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/ArpitSingh14?affiliations=OWNER&style=for-the-badge&color=1F5A8A&labelColor=0B1F33" alt="GitHub Stars">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ArpitSingh14&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=ArpitSingh14&style=for-the-badge&color=123A63&label=PROFILE+VIEWS" alt="Profile Views">
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/arpit-singh-744258374">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-123A63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:ARPITSINGH5140@GMAIL.COM">
-<img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact-1F5A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/ArpitSingh14">
+  <img src="https://img.shields.io/badge/GitHub-ArpitSingh14-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -50,65 +58,66 @@
 
 <div align="center">
 
-## 💫 About Me
+## 🧑‍💻 About Me
 
-<td width="35%" align="center" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=123A63&center=true&vCenter=true&width=700&height=45&lines=Passionate+about+building+with+code+%F0%9F%92%BB;Learning+AI%2FML+step+by+step+%F0%9F%A4%96;Turning+ideas+into+real+projects+%F0%9F%9A%80;Working+towards+becoming+a+Software+Engineer+%F0%9F%8E%AF" alt="About Me Animation">
 
-<img src="https://skillicons.dev/icons?i=github" width="120" alt="GitHub">
+</div>
 
-<br><br>
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/AI%2FML-Learning-EF93C4?style=for-the-badge&logo=python&logoColor=white" alt="AI ML">
+<td width="65%" valign="top">
 
-<br><br>
+### 👋 Hello!
 
-<img src="https://img.shields.io/badge/Goal-Software%20Engineer-FF69B4?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineer">
+I'm **Arpit Singh**, a **B.Tech student** passionate about technology, software development, and problem solving.
 
-</td>
+I'm currently learning **Artificial Intelligence & Machine Learning** while developing my skills in **Web Development and Backend Development**.
 
-### 👨‍💻 Who Am I?
+I enjoy learning by building projects and experimenting with different technologies.
 
-Hi! I'm **Arpit Singh**, a **B.Tech student** passionate about technology, software development, and continuous learning.
-
-I'm currently exploring **AI/ML** while strengthening my foundations in **Web Development, Backend Development, and Problem Solving**.
-
-I enjoy transforming ideas into working projects and learning new technologies by building things.
-
-### 🚀 What I'm Currently Doing
+### 🚀 Currently
 
 - 🎓 Pursuing **B.Tech**
-- 🤖 Learning **Artificial Intelligence & Machine Learning**
-- 🌐 Building and exploring **Web Development**
-- ⚙️ Learning **Backend Development**
-- 🧩 Improving my **Problem-Solving & DSA skills**
-- 💻 Working with **Java, Python, C & JavaScript**
-- ⚛️ Exploring **React.js**
+- 🤖 Learning **AI / Machine Learning**
+- 🌐 Improving my **Web Development** skills
+- ⚙️ Exploring **Backend Development**
+- 🧩 Practicing **Problem Solving**
+- 💻 Working with multiple programming languages
+- 🚀 Building projects to improve my development skills
 - 🎯 Working toward becoming a **Software Engineer**
 
-### 💡 My Interests
+### 💡 Interests
 
 - 🌐 Web Development
-- 🧠 Problem Solving
-- 🤖 Artificial Intelligence & Machine Learning
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🧩 Problem Solving
 - ⚙️ Backend Development
-- 🚀 Building Real-World Projects
-- 📚 Learning New Technologies
+- 🚀 Software Engineering
+- 📚 Continuous Learning
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github-readme-animated-svg.vercel.app/api?name=ArpitSingh14&color=EF93C4" width="280" alt="Animated Developer">
+<img src="https://skillicons.dev/icons?i=github" width="130" alt="GitHub">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-EF93C4?style=for-the-badge&labelColor=161616" alt="Current Focus">
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-123A63?style=for-the-badge&labelColor=0B1F33" alt="Focus">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Goal-Software%20Engineer-FF69B4?style=for-the-badge&labelColor=161616" alt="Career Goal">
+<img src="https://img.shields.io/badge/GOAL-Software%20Engineer-1F5A8A?style=for-the-badge&labelColor=0B1F33" alt="Goal">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILD-LEARN-GROW-123A63?style=for-the-badge&labelColor=0B1F33" alt="Build Learn Grow">
 
 </td>
+
 </tr>
 </table>
 
@@ -138,7 +147,7 @@ I enjoy transforming ideas into working projects and learning new technologies b
 
 ### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools and Technologies">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools">
 
 </div>
 
@@ -146,18 +155,19 @@ I enjoy transforming ideas into working projects and learning new technologies b
 
 <div align="center">
 
-## 🧠 Currently Learning
+## 🤖 AI / ML Journey
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI ML Technologies">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-EF93C4?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence">
-<img src="https://img.shields.io/badge/Machine%20Learning-F8BBD0?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI ML">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&height=45&lines=Learning+AI+%2F+ML+step+by+step+%F0%9F%A4%96;Building+projects+to+learn+faster+%F0%9F%9A%80;Exploring+the+world+of+intelligent+systems+%F0%9F%A7%A0" alt="Learning Animation">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1F33?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-123A63?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=1F5A8A&center=true&vCenter=true&width=750&height=45&lines=Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+by+building+real+projects+%F0%9F%9A%80;Improving+one+concept+at+a+time+%F0%9F%A7%A0;The+journey+has+just+started+%E2%9C%A8" alt="AI ML Animation">
 
 </div>
 
@@ -169,21 +179,13 @@ I enjoy transforming ideas into working projects and learning new technologies b
 
 <br>
 
-<a href="https://github.com/ArpitSingh14">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArpitSingh14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1F33&title_color=FFFFFF&icon_color=7DB7E8&text_color=D6E8F5" alt="GitHub Stats">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArpitSingh14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Arpit Singh GitHub Stats">
-
-</a>
-
-<a href="https://github.com/ArpitSingh14">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSingh14&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0" alt="Top Languages">
-
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSingh14&layout=compact&langs_count=8&hide_border=true&bg_color=0B1F33&title_color=FFFFFF&text_color=D6E8F5" alt="Top Languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ArpitSingh14&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=F8BBD0&dates=F8BBD0" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=ArpitSingh14&hide_border=true&background=0B1F33&ring=7DB7E8&fire=1F5A8A&currStreakLabel=FFFFFF&sideLabels=D6E8F5&currStreakNum=FFFFFF&sideNums=7DB7E8&dates=D6E8F5" alt="GitHub Streak">
 
 </div>
 
@@ -191,9 +193,9 @@ I enjoy transforming ideas into working projects and learning new technologies b
 
 <div align="center">
 
-## 📈 GitHub Activity
+## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitSingh14&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Arpit%20Singh%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitSingh14&bg_color=0B1F33&color=D6E8F5&line=7DB7E8&point=FFFFFF&area=true&area_color=123A63&hide_border=true&custom_title=Arpit%20Singh%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph">
 
 </div>
 
@@ -201,9 +203,9 @@ I enjoy transforming ideas into working projects and learning new technologies b
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArpitSingh14&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=ArpitSingh14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies">
 
 </div>
 
@@ -214,14 +216,22 @@ I enjoy transforming ideas into working projects and learning new technologies b
 ## 🐍 Contribution Snake
 
 <!--
-This section is generated automatically by GitHub Actions.
+============================================================
+GITHUB ACTION REQUIRED FOR THE SNAKE
+============================================================
 
-Create:
+Create this file:
+
 .github/workflows/snake.yml
 
-The workflow should generate:
+Then use a GitHub Action to generate:
+
 output/github-contribution-grid-snake.svg
 output/github-contribution-grid-snake-dark.svg
+
+After the Action runs successfully, the snake below
+will automatically appear.
+============================================================
 -->
 
 <picture>
@@ -240,19 +250,22 @@ output/github-contribution-grid-snake-dark.svg
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🌐
-### Web Apps
 
-Modern and responsive web experiences.
+**Web Development**
+
+Building modern and responsive web applications.
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🤖
-### AI / ML
+
+**AI / ML**
 
 Exploring intelligent systems and machine learning.
 
@@ -261,20 +274,23 @@ Exploring intelligent systems and machine learning.
 <td align="center" width="25%">
 
 ### ⚙️
-### Backend
 
-Building reliable server-side applications.
+**Backend**
+
+Learning how scalable server-side systems work.
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🧩
-### Problem Solving
 
-Improving logic through coding and DSA.
+**Problem Solving**
+
+Improving logic, algorithms, and DSA skills.
 
 </td>
+
 </tr>
 </table>
 
@@ -284,13 +300,19 @@ Improving logic through coding and DSA.
 
 <div align="center">
 
-## 📚 My Development Journey
+## 📚 My Developer Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=EF93C4&center=true&vCenter=true&width=700&height=50&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve;Code+today.+Learn+tomorrow.+Build+every+day.;Small+progress+every+day+leads+to+big+results." alt="Development Journey">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=123A63&center=true&vCenter=true&width=800&height=50&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve;Code+%E2%86%92+Problem+Solve+%E2%86%92+Create;Small+progress+every+day+%F0%9F%94%A5;Never+stop+learning+%F0%9F%9A%80;From+student+to+software+engineer+%F0%9F%8E%AF" alt="Developer Journey">
 
 <br><br>
 
-**🎯 Goal:** Become a skilled **Software Engineer** capable of building scalable, useful, and impactful software.
+<img src="https://img.shields.io/badge/LEARN-0B1F33?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn">
+
+<img src="https://img.shields.io/badge/BUILD-123A63?style=for-the-badge&logo=rocket&logoColor=white" alt="Build">
+
+<img src="https://img.shields.io/badge/SOLVE-1F5A8A?style=for-the-badge&logo=leetcode&logoColor=white" alt="Solve">
+
+<img src="https://img.shields.io/badge/GROW-2F6F9F?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Grow">
 
 </div>
 
@@ -298,23 +320,79 @@ Improving logic through coding and DSA.
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
+
+<br>
 
 <a href="https://www.linkedin.com/in/arpit-singh-744258374">
-<img src="https://img.shields.io/badge/LinkedIn-Arpit%20Singh-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:ARPITSINGH5140@GMAIL.COM">
-<img src="https://img.shields.io/badge/Gmail-ARPITSINGH5140%40GMAIL.COM-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/LinkedIn-Arpit%20Singh-123A63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/ArpitSingh14">
-<img src="https://img.shields.io/badge/GitHub-ArpitSingh14-F8BBD0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-ArpitSingh14-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:ARPITSINGH5140@GMAIL.COM">
+  <img src="https://img.shields.io/badge/Gmail-ARPITSINGH5140%40GMAIL.COM-1F5A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=FF69B4&center=true&vCenter=true&width=650&height=40&lines=Have+an+idea%3F+Let's+build+it+%F0%9F%9A%80;Always+open+to+learning+and+connecting+%F0%9F%A4%9D;Let's+create+something+awesome+%F0%9F%92%BB" alt="Connect Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=7DB7E8&center=true&vCenter=true&width=700&height=40&lines=Let's+connect+%F0%9F%A4%9D;Always+open+to+learning+and+collaborating+%F0%9F%9A%80;Let's+build+something+awesome+%F0%9F%92%BB" alt="Connect Animation">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 2026 Goals
+
+<table>
+<tr>
+
+<td align="center">
+
+🎓
+
+### Master Development
+
+Strengthen my programming and software development fundamentals.
+
+</td>
+
+<td align="center">
+
+🤖
+
+### Learn AI / ML
+
+Build a strong foundation in Artificial Intelligence and Machine Learning.
+
+</td>
+
+<td align="center">
+
+🚀
+
+### Build Projects
+
+Create useful real-world projects and improve through practice.
+
+</td>
+
+<td align="center">
+
+💼
+
+### Become a Software Engineer
+
+Keep learning and work toward my long-term career goal.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -324,14 +402,20 @@ Improving logic through coding and DSA.
 
 ## 💭 Developer Mindset
 
-> ### **"Learn continuously. Build consistently. Improve relentlessly."**
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=123A63&center=true&vCenter=true&width=750&height=50&lines=Learn+continuously.+%F0%9F%A7%A0;Build+consistently.+%F0%9F%9A%80;Solve+problems.+%F0%9F%A7%A9;Improve+every+day.+%F0%9F%94%A5" alt="Mindset Animation">
+
+<br><br>
+
+> ### **"Learn. Build. Solve. Grow."**
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARN-EF93C4?style=for-the-badge&labelColor=161616" alt="Learn">
-<img src="https://img.shields.io/badge/BUILD-F8BBD0?style=for-the-badge&labelColor=161616" alt="Build">
-<img src="https://img.shields.io/badge/SOLVE-FF69B4?style=for-the-badge&labelColor=161616" alt="Solve">
-<img src="https://img.shields.io/badge/GROW-EF93C4?style=for-the-badge&labelColor=161616" alt="Grow">
+<img src="https://img.shields.io/badge/LEARN-0B1F33?style=for-the-badge" alt="Learn">
+<img src="https://img.shields.io/badge/BUILD-123A63?style=for-the-badge" alt="Build">
+<img src="https://img.shields.io/badge/SOLVE-1F5A8A?style=for-the-badge" alt="Solve">
+<img src="https://img.shields.io/badge/GROW-2F6F9F?style=for-the-badge" alt="Grow">
 
 </div>
 
@@ -339,12 +423,36 @@ Improving logic through coding and DSA.
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ⭐ Thanks For Visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&height=45&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Keep+coding.+Keep+learning.+%F0%9F%9A%80;See+you+around+%F0%9F%98%8A" alt="Goodbye Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=123A63&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Keep+coding.+Keep+learning.+%F0%9F%9A%80;See+you+around!+%F0%9F%98%8A;Have+a+great+day!+%E2%9C%A8" alt="Goodbye Animation">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=140&section=footer" width="100%" alt="Pink Waving Footer">
+<a href="https://github.com/ArpitSingh14?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-123A63?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                     NAVY FOOTER                            -->
+<!-- ========================================================= -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:123A63,100:1F5A8A&height=150&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F5A8A,50:123A63,100:0B1F33&height=150&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:123A63,100:1F5A8A&height=150&section=footer" width="100%" alt="Navy Blue Waving Footer">
+</picture>
+
+<div align="center">
+
+### **Arpit Singh** • B.Tech Student • AI/ML Learner • Future Software Engineer
+
+<br>
+
+<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0B1F33?style=for-the-badge" alt="Thanks">
 
 </div>
