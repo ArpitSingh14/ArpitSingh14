@@ -322,16 +322,6 @@ Keep learning and work toward my long-term career goal.
 <div align="center">
 
 
-> ### **"Learn. Build. Solve. Grow."**
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARN-0B1F33?style=for-the-badge" alt="Learn">
-<img src="https://img.shields.io/badge/BUILD-123A63?style=for-the-badge" alt="Build">
-<img src="https://img.shields.io/badge/SOLVE-1F5A8A?style=for-the-badge" alt="Solve">
-<img src="https://img.shields.io/badge/GROW-2F6F9F?style=for-the-badge" alt="Grow">
-
-</div>
 
 ---
 
