@@ -321,13 +321,6 @@ Keep learning and work toward my long-term career goal.
 
 <div align="center">
 
-## 💭 Developer Mindset
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=123A63&center=true&vCenter=true&width=750&height=50&lines=Learn+continuously.+%F0%9F%A7%A0;Build+consistently.+%F0%9F%9A%80;Solve+problems.+%F0%9F%A7%A9;Improve+every+day.+%F0%9F%94%A5" alt="Mindset Animation">
-
-<br><br>
 
 > ### **"Learn. Build. Solve. Grow."**
 
