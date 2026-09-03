@@ -12,51 +12,7 @@
 
 <br><br>
 
-<!-- ======================= INTRO =========================== -->
 
-# 👋 Hey there, I'm **Arpit Singh**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=123A63&center=true&vCenter=true&width=850&height=60&lines=B.Tech+Student+%F0%9F%8E%93;AI%2FML+Learner+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Backend+Development+Enthusiast+%E2%9A%99%EF%B8%8F;Future+Software+Engineer+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing Animation">
-
-<br>
-
-<img src="https://img.shields.io/badge/B.Tech-Student-0B1F33?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech Student">
-<img src="https://img.shields.io/badge/AI%2FML-Learner-123A63?style=for-the-badge&logo=python&logoColor=white" alt="AI ML">
-<img src="https://img.shields.io/badge/Future-Software%20Engineer-1F5A8A?style=for-the-badge&logo=code&logoColor=white" alt="Software Engineer">
-
-<br><br>
-
-<a href="https://github.com/ArpitSingh14">
-  <img src="https://img.shields.io/github/followers/ArpitSingh14?label=Followers&style=for-the-badge&color=123A63&labelColor=0B1F33" alt="GitHub Followers">
-</a>
-
-<a href="https://github.com/ArpitSingh14?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ArpitSingh14?affiliations=OWNER&style=for-the-badge&color=1F5A8A&labelColor=0B1F33" alt="GitHub Stars">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ArpitSingh14&style=for-the-badge&color=123A63&label=PROFILE+VIEWS" alt="Profile Views">
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/arpit-singh-744258374">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-123A63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:ARPITSINGH5140@GMAIL.COM">
-  <img src="https://img.shields.io/badge/Email-Contact-1F5A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://github.com/ArpitSingh14">
-  <img src="https://img.shields.io/badge/GitHub-ArpitSingh14-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
 
 ## 🧑‍💻 About Me
 
