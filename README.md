@@ -127,26 +127,6 @@ I enjoy learning by building projects and experimenting with different technolog
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArpitSingh14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1F33&title_color=FFFFFF&icon_color=7DB7E8&text_color=D6E8F5" alt="GitHub Stats">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitSingh14&layout=compact&langs_count=8&hide_border=true&bg_color=0B1F33&title_color=FFFFFF&text_color=D6E8F5" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ArpitSingh14&hide_border=true&background=0B1F33&ring=7DB7E8&fire=1F5A8A&currStreakLabel=FFFFFF&sideLabels=D6E8F5&currStreakNum=FFFFFF&sideNums=7DB7E8&dates=D6E8F5" alt="GitHub Streak">
-
-</div>
-
----
-
 <div align="center">
 
 ## 📈 Contribution Activity
