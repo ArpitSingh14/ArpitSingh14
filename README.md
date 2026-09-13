@@ -155,18 +155,6 @@ I enjoy learning by building projects and experimenting with different technolog
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArpitSingh14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies">
-
-</div>
-
---
-
-
-
-<div align="center">
-
 ## 💻 What I Love Building
 
 <table>
@@ -218,24 +206,6 @@ Improving logic, algorithms, and DSA skills.
 </div>
 
 ---
-
-<div align="center">
-
-## 📚 My Developer Journey
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=123A63&center=true&vCenter=true&width=800&height=50&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve;Code+%E2%86%92+Problem+Solve+%E2%86%92+Create;Small+progress+every+day+%F0%9F%94%A5;Never+stop+learning+%F0%9F%9A%80;From+student+to+software+engineer+%F0%9F%8E%AF" alt="Developer Journey">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LEARN-0B1F33?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn">
-
-<img src="https://img.shields.io/badge/BUILD-123A63?style=for-the-badge&logo=rocket&logoColor=white" alt="Build">
-
-<img src="https://img.shields.io/badge/SOLVE-1F5A8A?style=for-the-badge&logo=leetcode&logoColor=white" alt="Solve">
-
-<img src="https://img.shields.io/badge/GROW-2F6F9F?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Grow">
-
-</div>
 
 ---
 
