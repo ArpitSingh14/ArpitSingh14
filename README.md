@@ -279,34 +279,3 @@ Keep learning and work toward my long-term career goal.
 
 ## ⭐ Thanks For Visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=123A63&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Keep+coding.+Keep+learning.+%F0%9F%9A%80;See+you+around!+%F0%9F%98%8A;Have+a+great+day!+%E2%9C%A8" alt="Goodbye Animation">
-
-<br><br>
-
-<a href="https://github.com/ArpitSingh14?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-123A63?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
-</a>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                     NAVY FOOTER                            -->
-<!-- ========================================================= -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:123A63,100:1F5A8A&height=150&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F5A8A,50:123A63,100:0B1F33&height=150&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:123A63,100:1F5A8A&height=150&section=footer" width="100%" alt="Navy Blue Waving Footer">
-</picture>
-
-<div align="center">
-
-### **Arpit Singh** • B.Tech Student • AI/ML Learner • Future Software Engineer
-
-<br>
-
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0B1F33?style=for-the-badge" alt="Thanks">
-
-</div>
