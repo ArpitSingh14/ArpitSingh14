@@ -62,7 +62,7 @@ I enjoy learning by building projects and experimenting with different technolog
 
 <br><br>
 
-<img src="[https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-123A63?style=for-the-badge&labelColor=0B1F33](https://github.com/ArpitSingh14?achievement=quickdraw&tab=achievements)" alt="Focus">
+<img src="[[https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-123A63?style=for-the-badge&labelColor=0B1F33](https://github.com/ArpitSingh14?achievement=quickdraw&tab=achievements)](https://github.com/users/ArpitSingh14/achievements/pull-shark)" alt="Focus">
 
 <br><br>
 
